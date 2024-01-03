@@ -12,3 +12,5 @@ When you began learning about Neural Networks you might have googled Which langu
 and the obvious answer you get is Python or R is best for machine learning, other languages are hard so you must not waste your time on them! 
 Now, if the user starts programming, they face the problem of time and resource consumption. 
 So, this article shows how to a super fast neural network.
+
+Based from https://www.geeksforgeeks.org/
